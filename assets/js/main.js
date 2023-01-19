@@ -15,11 +15,3 @@ window.onload = function () {
 		mobile_menu.classList.toggle('is-active');
 	});
 }
-
-function a()
-{
-	return{
-		name : "kızılay"
-	};
-}
-console.log(a());
