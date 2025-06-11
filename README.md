@@ -1,4 +1,4 @@
-# SPA-TRYOUT
+# ValoPros
 
 
-# THIS IS A PROJECT THAT FOR COLLEGE. THIS IS NOT DONE YET. 
+ This is a project for college. This site show VALORANT regions and that regions popular teams and that teams players. 
