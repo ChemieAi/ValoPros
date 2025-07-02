@@ -6,17 +6,14 @@
 
 ### 🏠 Ana Sayfa
 
-| ------------------------------------------ |
-| ![](./screenshots/LandingPage.png) | 
+![](./screenshots/LandingPage.png)
 
 
 ### 🏠 Europ Region
 
-| ------------------------------------------ |
-| ![](./screenshots/Europe.png) | 
+![](./screenshots/Europe.png)
 
 
 ### 🏠 Fnatic
 
-| ------------------------------------------ |
-| ![](./screenshots/Fnatic.png) | 
+![](./screenshots/Fnatic.png)
